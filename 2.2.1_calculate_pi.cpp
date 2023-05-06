@@ -17,4 +17,4 @@ int main(void){
         }
         printf("%d  %.10f\n",iter,(double)n_in/iter);
     }
-}
+} 
